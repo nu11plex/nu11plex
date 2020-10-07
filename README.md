@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 看我看我，大家注意了，我要跟大家宣布个事，我是个**傻逼**!
+
+<a href="https://github.com/nu11plex">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nu11plex" />
+</a>
+<a href="https://github.com/nu11plex">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nu11plex" />
+</a>
