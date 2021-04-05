@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Aim to be a CS student in Tinghua University, now a **newbie**!
+<!--### Aim to be a CS student in Tinghua University, now a **newbie**!--!>
 
 <a href="https://github.com/nu11plex">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nu11plex" />
